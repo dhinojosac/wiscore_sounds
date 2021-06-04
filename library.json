@@ -1,15 +1,19 @@
-"name": "wiscore_sounds",
-"version": "1.0.0",
-"repository":
 {
-    "type": "git",
-    "url": "https://github.com/dhinojosac/wiscore_sounds.git"
-},
-"authors":
-{
-    "name": "Diego Hinojosa",
-    "email": "d.hinojosa.cordova@gmail.com",
-    "url": "https://dhinojosac.cl/"
-},
-"frameworks": ["arduino"],
-"platforms": ["nordicnrf52"]
+    "name": "wiscore_sounds",
+    "version": "1.0.0",
+    "description": "It's a sound library for wiscore4631 using RAK18001 buzzer",
+    "keywords":"wiscore, wisblock, rak18001, sounds, alerts",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/dhinojosac/wiscore_sounds.git"
+    },
+    "authors":
+    {
+        "name": "Diego Hinojosa",
+        "email": "d.hinojosa.cordova@gmail.com",
+        "url": "https://dhinojosac.cl/"
+    },
+    "frameworks": ["arduino"],
+    "platforms": ["nordicnrf52"]
+}
