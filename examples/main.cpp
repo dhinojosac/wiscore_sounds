@@ -1,6 +1,6 @@
 
 #include <Arduino.h>
-#include "../src/wiscore_sounds.h"
+#include <wiscore_sounds.h>
 
 void setup()
 {

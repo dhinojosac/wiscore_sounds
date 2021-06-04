@@ -1,6 +1,6 @@
 {
     "name": "wiscore_sounds",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "It's a sound library for wiscore4631 using RAK18001 buzzer",
     "keywords":"wiscore, wisblock, rak18001, sounds, alerts",
     "repository":
